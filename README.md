@@ -38,6 +38,7 @@ The interest group meets monthly in a conference call.
 * Jaime Pinto (SciNet - University of Toronto)
 * Wilhelmina Randtke (Florida Academic Library Services Cooperative)
 * Don Richards (University of Tennessee Knoxville)
+* Robin Naughton (New York Academy of Medicine Library)
 
 ## Past Membership
 
